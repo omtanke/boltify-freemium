@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAward03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M7.68 12.987c-.663-3.36-.994-5.04-.277-6.406.717-1.367 2.258-1.993 5.34-3.244l.627-.255c2.328-.946 3.492-1.419 4.195-.808.702.61.455 1.88-.04 4.42L15.32 18H8.669zM6 21c0-1.414 0-2.121.44-2.56C6.878 18 7.585 18 9 18h6c1.414 0 2.121 0 2.56.44.44.439.44 1.146.44 2.56v1H6zM4 22h16" /></svg>;
+export default SvgAward03;

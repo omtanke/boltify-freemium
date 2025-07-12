@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLeftToRightListStar = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M12 5.5h9M12 12h9M12 18.5h9" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8 5.5H3M4.042 8l2.916-5m0 5L4.042 3M8 18.5H3M4.042 21l2.916-5m0 5-2.916-5" /></svg>;
+export default SvgLeftToRightListStar;

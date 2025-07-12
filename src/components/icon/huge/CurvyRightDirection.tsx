@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCurvyRightDirection = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20.003 15s1.999-1.473 1.999-2-2-2-2-2m1.775 1.868c-1.412.29-4.058.402-5.368-2.052-.543-.863-.441-2.31-.441-3.955-.034-.67-.606-1.89-2.038-1.86s-1.902 1.207-1.958 1.79v10.111c.014.852-.48 2.098-1.996 2.098-1.48 0-2.06-1.312-1.932-2.296.346-2.664-.463-5.456-3.963-5.7H1.997" /></svg>;
+export default SvgCurvyRightDirection;

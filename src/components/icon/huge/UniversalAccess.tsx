@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgUniversalAccess = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3M18 7c-1.546 1.237-3.664 2-6 2s-4.454-.763-6-2M13.5 14.5l1 6m-1-6V9m0 5.5h-3m-1 6 1-6m0 0V9" /></svg>;
+export default SvgUniversalAccess;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgPulse02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 12h3l1.5-4L9 15l1.5-3h2l2-5 2 10 2.5-5h3" /></svg>;
+export default SvgPulse02;

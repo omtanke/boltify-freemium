@@ -1,0 +1,3 @@
+```tsx
+<Checkbox disabled {...rest} />
+```

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgStopWatch = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m18 5.5 1-1m-14 0 1 1" /><circle cx={12} cy={13} r={9} stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 9.5v4l2 2M12 3.5V2M10 2h4" /></svg>;
+export default SvgStopWatch;

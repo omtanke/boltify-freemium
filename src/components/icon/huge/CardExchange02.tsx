@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCardExchange02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 14.006a5.994 5.994 0 0 1-6 5.996l.857-1.713M2 10.009a5.994 5.994 0 0 1 6-5.996l-.857 1.713M10.966 5.524h10.806m-8.306 5.47H19.5A2.5 2.5 0 0 0 22 8.496v-4a2.5 2.5 0 0 0-2.5-2.498h-6.034a2.5 2.5 0 0 0-2.5 2.499v3.999a2.5 2.5 0 0 0 2.5 2.498M2 16.531h10.807M4.5 22.001h6.034a2.5 2.5 0 0 0 2.5-2.498v-3.999a2.5 2.5 0 0 0-2.5-2.498H4.5A2.5 2.5 0 0 0 2 15.504v4a2.5 2.5 0 0 0 2.5 2.498" /></svg>;
+export default SvgCardExchange02;

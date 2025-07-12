@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSunset = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.5 7.5c.492.506 1.8 2.5 2.5 2.5m2.5-2.5c-.492.506-1.8 2.5-2.5 2.5m0 0V4" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M18.363 10.636 16.95 12.05M3 17h2M5.637 10.636 7.05 12.05M21 17h-2M21 20H3M16 17a4 4 0 0 0-8 0" /></svg>;
+export default SvgSunset;

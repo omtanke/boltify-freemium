@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgGrid02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5 3v18M2 6h20M2 18h20M19 3v18" /></svg>;
+export default SvgGrid02;

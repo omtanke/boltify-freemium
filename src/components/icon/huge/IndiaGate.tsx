@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgIndiaGate = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 22h20M15 22v-5.727C15 14.465 13.657 13 12 13s-3 1.465-3 3.273V22M17 10h3M4 10h3M11.5 10h1" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 22V6h16v16M5 6V5c0-1.414 0-2.121.44-2.56C5.878 2 6.585 2 8 2h8c1.414 0 2.121 0 2.56.44C19 2.878 19 3.585 19 5v1M3 6h18" /></svg>;
+export default SvgIndiaGate;

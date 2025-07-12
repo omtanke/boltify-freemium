@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAlignSelection = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 6v12M18 4H6m12 16H6m-2-2V6" /><path stroke="currentColor" strokeWidth={1.5} d="M22 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM6 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM22 20a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM6 20a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" /></svg>;
+export default SvgAlignSelection;

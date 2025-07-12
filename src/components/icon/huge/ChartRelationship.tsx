@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartRelationship = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 5h7M10 10l4.5 4.5M5 11v7" /><circle cx={6.444} cy={6.444} r={4.444} stroke="currentColor" strokeWidth={1.5} /><circle cx={5} cy={20} r={2} stroke="currentColor" strokeWidth={1.5} /><circle cx={16} cy={16} r={2} stroke="currentColor" strokeWidth={1.5} /><circle cx={20} cy={5} r={2} stroke="currentColor" strokeWidth={1.5} /></svg>;
+export default SvgChartRelationship;

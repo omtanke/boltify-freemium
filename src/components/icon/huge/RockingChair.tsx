@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgRockingChair = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 8v6m4-6v6M7 14h11M16 14l2 6M4 2l4 12-2 6" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 8h10.5A1.5 1.5 0 0 1 18 9.5M4 18c1.726 2.412 4.665 4 8 4s6.274-1.588 8-4" /></svg>;
+export default SvgRockingChair;

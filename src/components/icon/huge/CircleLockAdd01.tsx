@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCircleLockAdd01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M16.5 22v-8m-4 4h8M10.675 21.998C6.64 22.095 3.5 18.806 3.5 14.999 3.5 11.133 6.697 8 10.64 8a7.17 7.17 0 0 1 5.86 3" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M15 9V6.5a4.5 4.5 0 1 0-9 0v3" /></svg>;
+export default SvgCircleLockAdd01;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLocationRemove01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M13.618 21.367A2.37 2.37 0 0 1 12 22a2.37 2.37 0 0 1-1.617-.633c-3.971-3.741-9.293-7.92-6.698-13.987C5.09 4.1 8.458 2 12.001 2s6.912 2.1 8.315 5.38c2.592 6.06-2.717 10.259-6.698 13.987Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M15.5 11h-7" /></svg>;
+export default SvgLocationRemove01;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAndroid = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M6.5 9.5a5.5 5.5 0 1 1 11 0V16c0 1.414 0 2.121-.44 2.56-.439.44-1.146.44-2.56.44h-5c-1.414 0-2.121 0-2.56-.44-.44-.439-.44-1.146-.44-2.56z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 11v6M15 19v3M9 19v3M4 11v6M10 4 8.5 2M14 4l1.5-2M6.5 10h11" /></svg>;
+export default SvgAndroid;

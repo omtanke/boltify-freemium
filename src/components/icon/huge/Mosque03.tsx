@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMosque03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 12v10m16-10v10M6 8v4m12-4v4M3 12h18M5 8h14M3 22h18M12 3V2M15 22v-.894c0-1.43 0-2.144-.224-2.785a4 4 0 0 0-.583-1.09c-.41-.542-1.004-.938-2.193-1.731-1.19.793-1.784 1.19-2.193 1.731a4 4 0 0 0-.583 1.09C9 18.961 9 19.676 9 21.106V22M9.025 8C5.94 5.5 10.678 4.25 12 3c1.322 1.25 6.06 2.5 2.975 5z" /></svg>;
+export default SvgMosque03;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLeavingGeoFence = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 17V3m0 0c-.373 0-.673.343-1.273 1.028L9 6m3-3c.373 0 .673.343 1.273 1.028L15 6" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M5 15c-1.25.633-2 1.439-2 2.316C3 19.35 7.03 21 12 21s9-1.65 9-3.684c0-.877-.75-1.683-2-2.316" /></svg>;
+export default SvgLeavingGeoFence;

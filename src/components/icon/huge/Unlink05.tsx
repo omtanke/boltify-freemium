@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgUnlink05 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M13.5 17H17a5 5 0 0 0 0-10h-3.5m-3 10H7A5 5 0 0 1 7 7h3.5" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15.5 21 14 19.5M8.5 21l1.5-1.5M8.5 3 10 4.5M15.5 3 14 4.5" /></svg>;
+export default SvgUnlink05;

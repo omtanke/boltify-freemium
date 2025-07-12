@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgWifiDisconnected02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="m14.5 15-5 5m5 0-5-5" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M18.5 13c-3.768-4-9-4-13 0M2 8c6.316-5.333 13.684-5.333 20 0" /></svg>;
+export default SvgWifiDisconnected02;

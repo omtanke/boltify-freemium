@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTablet02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M14.5 2h-5c-2.828 0-4.243 0-5.121.879C3.5 3.757 3.5 5.172 3.5 8v8c0 2.828 0 4.243.879 5.121C5.257 22 6.672 22 9.5 22h5c2.828 0 4.243 0 5.121-.879.879-.878.879-2.293.879-5.121V8c0-2.828 0-4.243-.879-5.121C18.743 2 17.328 2 14.5 2ZM10 4.5h4" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={2} d="M12 19h.01" /></svg>;
+export default SvgTablet02;

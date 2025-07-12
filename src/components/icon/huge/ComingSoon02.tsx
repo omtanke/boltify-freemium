@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgComingSoon02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M20.5 13.5a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M12 19a5.5 5.5 0 1 1 0-11M13.5 3.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 13.5 15 9" /></svg>;
+export default SvgComingSoon02;

@@ -1,0 +1,39 @@
+```tsx
+<ProgressCircular
+    color='blue'
+    type='quarter'
+    value={25}
+    bgStrokeWidth={1}
+    circleStrokeWidth={3}
+    strokeLinecap='butt'
+    className='size-48'>
+    <div>
+        <div>25%</div>
+        <div className='text-xs'>Progress</div>
+    </div>
+</ProgressCircular>
+<ProgressCircular
+    type='quarter'
+    color='emerald'
+    value={50}
+    bgStrokeWidth={1}
+    circleStrokeWidth={3}
+    className='size-48'>
+    <div>
+        <div>50%</div>
+        <div className='text-xs'>Progress</div>
+    </div>
+</ProgressCircular>
+<ProgressCircular
+    type='half'
+    color='red'
+    value={75}
+    bgStrokeWidth={3}
+    circleStrokeWidth={1}
+    className='size-48'>
+    <div>
+        <div>75%</div>
+        <div className='text-xs'>Progress</div>
+    </div>
+</ProgressCircular>
+```

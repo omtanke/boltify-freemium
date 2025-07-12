@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgEaseCurveControlPoints = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 4c-5 0-7.02 4.042-9 8s-4 8-9 8M10 20h2m3 0h2m0 0a2 2 0 1 0 4 0 2 2 0 0 0-4 0M12 4h2M7 4h2M7 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0" /></svg>;
+export default SvgEaseCurveControlPoints;

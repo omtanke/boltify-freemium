@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMenu06 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 5h16M4 12h4m12 0h-9m-3 0 1.5 2 1.5-2m-3 0h3M4 19h16" /></svg>;
+export default SvgMenu06;

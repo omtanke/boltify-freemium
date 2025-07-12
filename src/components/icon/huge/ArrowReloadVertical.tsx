@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowReloadVertical = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5.5 3.5v11c0 3.713 2.685 6.5 6.5 6.5M18.5 20.5v-11C18.5 5.787 15.815 3 12 3" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 18s-1.841 2.5-2.5 2.5S16 18 16 18M8 5.5S6.159 3 5.5 3 3 5.5 3 5.5" /></svg>;
+export default SvgArrowReloadVertical;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgFerrisWheel = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><circle cx={12} cy={12} r={6} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m8 22 2.684-7.648C11.234 12.784 11.51 12 12 12s.765.784 1.316 2.352L16 22" /><path stroke="currentColor" strokeWidth={1.5} d="M14 4a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM19 10a2 2 0 1 1 0-4 2 2 0 0 1 0 4ZM7 16a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM7 7.75a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM21 16a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" /></svg>;
+export default SvgFerrisWheel;

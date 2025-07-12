@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCursor02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M3.428 3.524C5.492 1.302 21.013 6.745 21 8.733c-.015 2.253-6.061 2.947-7.737 3.417-1.008.282-1.278.572-1.51 1.63C10.7 18.565 10.17 20.945 8.966 21c-1.92.084-7.552-15.308-5.539-17.476Z" /></svg>;
+export default SvgCursor02;

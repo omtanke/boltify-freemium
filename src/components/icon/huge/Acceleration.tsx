@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAcceleration = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2.498 18.414V11.19c0-1.329 0-1.993.599-2.158.598-.166 1.303.304 2.712 1.244l12.774 8.516c1.41.939 2.114 1.409 1.866 1.808S19.205 21 17.212 21H6.377c-1.828 0-2.743 0-3.31-.379-.569-.378-.569-.988-.569-2.207M8.498 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8M15.502 9.996l5.903 3.384m0 0c.32-.34-.22-1.32-.677-2.652m.677 2.652c-.22.24-.941.3-2.641.618" /></svg>;
+export default SvgAcceleration;

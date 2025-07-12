@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCompass01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M10 10 5 22m9-12 5 12M12 4V2" /><circle cx={12} cy={7} r={3} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M3 13c1.99 3.024 5.28 5 9 5s7.01-1.976 9-5" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 17v2" /></svg>;
+export default SvgCompass01;

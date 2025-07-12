@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHeading04 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3.5 5v14M13.5 5v14M16.5 11v4h4m0 0v4m0-4v-4M3.5 12h10" /></svg>;
+export default SvgHeading04;

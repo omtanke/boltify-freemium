@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCoins02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M14 18a8 8 0 1 0 0-16 8 8 0 0 0 0 16ZM13.167 20.969A7.398 7.398 0 0 1 3.03 10.833" /></svg>;
+export default SvgCoins02;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCurtains = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 3H2M5 14c.598-.707 1.767-2.606 2-5M19 14c-.599-.707-1.767-2.606-2-5M3 3v11.625m0 0v2.125c0 2.003 0 3.005.586 3.628C4.172 21 5.114 21 7 21h1c0-1.469-.4-4.922-2-6.985m-3 .61c1.148-.077 2.141-.29 3-.61m0 0c3.88-1.44 6-6.8 6-11.015M21 3v11.625m0 0v2.125c0 2.003 0 3.005-.586 3.628C19.828 21 18.886 21 17 21h-1c0-1.469.4-4.922 2-6.985m3 .61c-1.148-.077-2.141-.29-3-.61m0 0c-3.88-1.44-6-6.8-6-11.015" /></svg>;
+export default SvgCurtains;

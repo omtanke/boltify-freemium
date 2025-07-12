@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartColumn = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 20h3M18 20h3M10.5 20h3M3 16h3M18 16h3M10.5 16h3M3 12h3M18 12h3M10.5 12h3M3 8h3M18 8h3M3 4h3" /></svg>;
+export default SvgChartColumn;

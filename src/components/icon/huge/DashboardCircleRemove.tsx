@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDashboardCircleRemove = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><circle cx={6.25} cy={6.25} r={4.25} stroke="currentColor" strokeWidth={1.5} /><circle cx={17.75} cy={17.75} r={4.25} stroke="currentColor" strokeWidth={1.5} /><circle cx={6.25} cy={17.75} r={4.25} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 6h-8" /></svg>;
+export default SvgDashboardCircleRemove;

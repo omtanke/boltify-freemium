@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTrampoline = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 10v8M12 16v4M22 10v8" /><ellipse cx={12} cy={10} stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} rx={10} ry={6} /></svg>;
+export default SvgTrampoline;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgYenSend = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 3.5c.367 1.54 1.98 5.037 5.5 6.716m0 0C11.02 8.537 12.633 5.039 13 3.5m-5.5 6.716V20.5" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M5 13.5h5M5 17.5h5" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 13h-7.5m7.5 0c0 .7-1.994 2.008-2.5 2.5M22 13c0-.7-1.994-2.008-2.5-2.5" /></svg>;
+export default SvgYenSend;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgUserFullView = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M15 5c0 1.657-1.758 3.5-3 3.5S9 6.657 9 5a3 3 0 1 1 6 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M16.042 9c1.522 1.335 2.51 3.597 1.623 5.705-.19.454-.629.749-1.114.749-.492 0-1.302-.158-1.46.483l-1.096 4.475A2.064 2.064 0 0 1 12 22a2.064 2.064 0 0 1-1.994-1.588l-1.098-4.475c-.157-.641-.966-.483-1.46-.483-.484 0-.922-.295-1.113-.749-.886-2.108.1-4.37 1.624-5.705" /></svg>;
+export default SvgUserFullView;

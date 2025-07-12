@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMaleSymbol = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 9A6 6 0 1 1 9 9a6 6 0 0 1 12 0M3 15v2c0 1.886 0 2.828.586 3.414S5.114 21 7 21h2m-5-1 6.5-6.5" /></svg>;
+export default SvgMaleSymbol;

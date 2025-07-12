@@ -1,0 +1,11 @@
+import InteractiveDataCardTrafficExample from '@/examples/dataVisualization/interactiveDataCards/InteractiveDataCardTraffic.example';
+import InteractiveDataCardStatsWithLineChartExample from '@/examples/dataVisualization/interactiveDataCards/InteractiveDataCardStatsWithLineChart.example';
+import InteractiveDataCardLineChartWithDatepickerExample from '@/examples/dataVisualization/interactiveDataCards/InteractiveDataCardLineChartWithDatepicker.example';
+
+const EX_InteractiveDataCards = {
+	Traffic: InteractiveDataCardTrafficExample,
+	StatsWithLineChart: InteractiveDataCardStatsWithLineChartExample,
+	LineChartWithDatepicker: InteractiveDataCardLineChartWithDatepickerExample,
+};
+
+export default EX_InteractiveDataCards;

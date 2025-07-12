@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgInsertColumn = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21.187 5.998c-.202-.889-.533-1.564-1.078-2.109C18.718 2.5 16.479 2.5 12 2.5c-4.478-.001-6.717-.001-8.109 1.39-1.39 1.392-1.39 3.63-1.39 8.109 0 4.478 0 6.718 1.39 8.109 1.392 1.391 3.63 1.391 8.11 1.391 4.478 0 6.717 0 8.108-1.391.545-.545.876-1.22 1.078-2.109M21.5 12h-4m0 0h-4m4 0v4m0-4V8" /><path stroke="currentColor" strokeWidth={1.5} d="M9 21.5v-19M2.5 15.5H9m-6.5-7H9" /></svg>;
+export default SvgInsertColumn;

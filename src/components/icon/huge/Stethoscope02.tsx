@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgStethoscope02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6.5 3.5h-2a1 1 0 0 0-1 1V8a5.5 5.5 0 1 0 11 0V4.5a1 1 0 0 0-1-1h-2" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M18.5 15.5v1.25a4.75 4.75 0 1 1-9.5 0V13.5M11.5 2.5v2M6.5 2.5v2" /><path stroke="currentColor" strokeWidth={1.5} d="M20.5 13.5a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" /></svg>;
+export default SvgStethoscope02;

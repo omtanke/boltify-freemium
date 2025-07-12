@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBookshelf03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 16h18M2 22h20M3 9h18M3 22V8c0-2.828 0-4.243.93-5.121S6.358 2 9.353 2h5.294c2.995 0 4.492 0 5.423.879C21 3.757 21 5.172 21 8v14M11 19h2M10 9 9 5M6.5 9V5M14 16v-4M12 9V5M16 16l1-4M19 16v-4" /></svg>;
+export default SvgBookshelf03;

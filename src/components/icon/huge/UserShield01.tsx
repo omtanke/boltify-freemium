@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgUserShield01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 14.047a10.63 10.63 0 0 0-6.422 1.435c-1.415.842-5.125 2.562-2.865 4.715C3.816 21.248 5.045 22 6.59 22H13" /><path stroke="currentColor" strokeWidth={1.5} d="M15.5 6.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 17.5V15c-2 0-3.5-1-3.5-1S17 15 15 15v2.5c0 3.5 3.5 4.5 3.5 4.5s3.5-1 3.5-4.5" /></svg>;
+export default SvgUserShield01;

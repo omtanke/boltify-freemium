@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMirror = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M7 15V7a5 5 0 0 1 10 0v8c0 1.655-.345 2-2 2H9c-1.655 0-2-.345-2-2M10 6l1-1M11 8.5l2-2M20 8v14M4 8v14M4 20h16M4 12h3m10 0h3" /></svg>;
+export default SvgMirror;

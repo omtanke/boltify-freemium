@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgInequalityCircle01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m13.98 7.5-5.844 5.171c-.336.409-.007.829.444.829h7.416M7.98 16.5h8.022" /></svg>;
+export default SvgInequalityCircle01;

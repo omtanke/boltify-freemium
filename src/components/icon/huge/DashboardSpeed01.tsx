@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDashboardSpeed01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M13.5 13 17 9m-3 6a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM6 12a6 6 0 0 1 9-5.197" /><path stroke="currentColor" strokeWidth={1.5} d="M2.5 12c0-4.478 0-6.717 1.391-8.109 1.392-1.39 3.63-1.39 8.11-1.39 4.477 0 6.717 0 8.108 1.39 1.391 1.392 1.391 3.63 1.391 8.11 0 4.477 0 6.717-1.391 8.108S16.479 21.5 12 21.5c-4.478 0-6.717 0-8.109-1.391-1.39-1.391-1.39-3.63-1.39-8.109Z" /></svg>;
+export default SvgDashboardSpeed01;

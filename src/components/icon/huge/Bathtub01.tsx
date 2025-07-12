@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBathtub01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="m6 20-1 1m13-1 1 1" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 12v1c0 3.3 0 4.95 1.025 5.975S6.7 20 10 20h4c3.3 0 4.95 0 5.975-1.025S21 16.3 21 13v-1" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M2 12h20M4 12V5.523a2.523 2.523 0 0 1 4.943-.715L9 5M8 6l2.5-2" /></svg>;
+export default SvgBathtub01;

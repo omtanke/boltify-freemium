@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgPlusMinusCircle01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 7.5v6.364m3.5-3.182h-7m7 5.818h-7" /><circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} /></svg>;
+export default SvgPlusMinusCircle01;

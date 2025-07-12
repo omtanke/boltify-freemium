@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgGravity = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 22a6 6 0 1 0 0-12 6 6 0 0 0 0 12M7 2v2m10-2v2M12 2v5.5m0 0c.5-.008 1.135-.938 2.06-1.997M12 7.5c-.5-.008-.815-.688-1.94-1.997" /></svg>;
+export default SvgGravity;

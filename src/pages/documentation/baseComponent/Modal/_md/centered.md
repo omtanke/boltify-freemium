@@ -1,0 +1,41 @@
+```tsx
+import { useState } from 'react';
+import Button from '@/components/ui/Button';
+import Modal, {
+	ModalBody,
+	ModalFooter,
+	ModalFooterChild,
+	ModalHeader,
+} from '@/components/ui/Modal';
+
+const MyComponent = () => {
+	return (
+		<>
+			<Button aria-label='Open' onClick={() => setStatus(true)} variant='soft'>
+				Open modal
+			</Button>
+			<Modal isOpen={status} setIsOpen={setStatus} isCentered>
+				<ModalHeader>Modal Title Here</ModalHeader>
+				<ModalBody>Modal content here.</ModalBody>
+				<ModalFooter>
+					<ModalFooterChild>Footer Child 1</ModalFooterChild>
+					<ModalFooterChild>
+						<Button
+							aria-label='Cancel'
+							color='red'
+							icon='Cancel01'
+							onClick={() => setStatus(false)}>
+							Close
+						</Button>
+						<Button aria-label='Save' variant='soft' icon='FloppyDisk'>
+							Save
+						</Button>
+					</ModalFooterChild>
+				</ModalFooter>
+			</Modal>
+		</>
+	);
+};
+
+export default MyComponent;
+```

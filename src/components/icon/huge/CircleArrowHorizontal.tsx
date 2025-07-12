@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCircleArrowHorizontal = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 12H7m10 0c0-.56-1.396-1.607-1.75-2M17 12c0 .56-1.396 1.607-1.75 2M7 12c0-.56 1.396-1.607 1.75-2M7 12c0 .56 1.396 1.607 1.75 2" /></svg>;
+export default SvgCircleArrowHorizontal;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDollarCircle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M14.71 10.061c-.099-.763-.975-1.995-2.55-1.995-1.829 0-2.599 1.013-2.755 1.52-.244.678-.195 2.071 1.95 2.223 2.68.19 3.754.506 3.618 2.147s-1.631 1.995-2.812 1.957-3.113-.58-3.188-2.04m3-6.875V8.07m0 7.833v1.095" /></svg>;
+export default SvgDollarCircle;

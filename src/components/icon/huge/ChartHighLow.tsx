@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartHighLow = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 21H10c-3.3 0-4.95 0-5.975-1.025S3 17.3 3 14V3" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M10 7h2M18 7h2M8 15h2M16 15h2M10 5v12M18 5v12" /></svg>;
+export default SvgChartHighLow;

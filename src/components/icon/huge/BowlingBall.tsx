@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBowlingBall = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeWidth={2} d="M15 6v.01M18 9v.01M14 10v.01" /></svg>;
+export default SvgBowlingBall;

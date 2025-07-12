@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLinkCircle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21.002 12A9 9 0 0 1 12 21a9 9 0 1 1 0-18" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20.554 3.47 14.99 9.01m5.564-5.54c-.495-.496-3.832-.45-4.537-.44m4.537.44c.495.494.449 3.83.439 4.535" /></svg>;
+export default SvgLinkCircle;

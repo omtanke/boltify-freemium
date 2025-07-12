@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSink01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M12 14a7.05 7.05 0 0 0 6.773-5.026c.232-.782.347-1.173.045-1.573C18.515 7 18.024 7 17.04 7H6.96c-.983 0-1.474 0-1.777.4-.302.401-.187.792.045 1.574A7.05 7.05 0 0 0 12 14Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 7V3.5a1.5 1.5 0 0 1 3 0V4M10 7V6c0-.943 0-1.414-.293-1.707S8.943 4 8 4M14.5 14l-.5 8m-4.5-8 .5 8M8 22h8" /></svg>;
+export default SvgSink01;

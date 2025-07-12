@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgGitPullRequestClosed = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 8v8M18 11v5" /><circle cx={6} cy={18} r={2} stroke="currentColor" strokeWidth={1.5} /><circle cx={6} cy={6} r={2} stroke="currentColor" strokeWidth={1.5} /><circle cx={18} cy={18} r={2} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m20 4-2 2m0 0-2 2m2-2 2 2m-2-2-2-2" /></svg>;
+export default SvgGitPullRequestClosed;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDragDropHorizontal = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M18 8v.006M12 8v.006M6 8v.006m12 7.988V16m-6-.006V16m-6-.006V16" /></svg>;
+export default SvgDragDropHorizontal;

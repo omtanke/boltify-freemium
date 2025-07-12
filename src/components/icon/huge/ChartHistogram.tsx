@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartHistogram = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 21H10c-3.3 0-4.95 0-5.975-1.025S3 17.3 3 14V3" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10v11M18 13v8M8 13v7M21 7.987c-1.84 0-3.808.256-5.123-1.494-1.497-1.99-4.257-1.99-5.754 0C8.808 8.243 6.84 7.987 5 7.987H3" /></svg>;
+export default SvgChartHistogram;

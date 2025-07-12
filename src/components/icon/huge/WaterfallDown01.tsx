@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgWaterfallDown01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 21H10c-3.3 0-4.95 0-5.975-1.025S3 17.3 3 14V3" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 17v-3M16 14V8M12 14v-3M8 11V5" /></svg>;
+export default SvgWaterfallDown01;

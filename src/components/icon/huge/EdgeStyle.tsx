@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgEdgeStyle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M3 6h18M3 10h7.5M13.5 10H21M3 14h4M10 14h4M17 14h4M3 18h2.118m3.176 0h2.118m3.176 0h2.118m3.176 0H21" /></svg>;
+export default SvgEdgeStyle;

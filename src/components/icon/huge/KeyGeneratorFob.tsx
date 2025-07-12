@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgKeyGeneratorFob = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 22a7 7 0 0 0 7-7c0-2.4-.771-6.833-1.356-9.847-.29-1.493-.434-2.239-.988-2.696S15.328 2 13.78 2H10.22c-1.547 0-2.32 0-2.875.457-.554.457-.699 1.203-.988 2.696C5.77 8.167 5 12.599 5 15a7 7 0 0 0 7 7" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 15a4 4 0 1 1-8 0 4 4 0 0 1 8 0M12 5v1" /></svg>;
+export default SvgKeyGeneratorFob;

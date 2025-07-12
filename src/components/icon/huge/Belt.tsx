@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBelt = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M8.975 17.966C12.462 17.522 16 16.331 16 12s-3.538-5.523-7.025-5.965C6.621 5.735 6 7.42 6 9.412v5.176c0 1.992.62 3.676 2.975 3.377ZM2 7.5h4m-4 9h4m8-9h8m-8 9h8M5 12h5" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M20 12h.009" /></svg>;
+export default SvgBelt;

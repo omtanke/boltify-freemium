@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMoreVertical = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M11.992 12h.009M11.984 18h.01M12 6h.009" /></svg>;
+export default SvgMoreVertical;

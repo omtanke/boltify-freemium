@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSortingDown = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 15.5h12M3 11.5h18M8 2.5v6m0 0-2-2m2 2 2-2M12 15.5v6m0 0-2-2m2 2 2-2M16 2.5v6m0 0-2-2m2 2 2-2" /></svg>;
+export default SvgSortingDown;

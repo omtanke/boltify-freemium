@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMarketing = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><ellipse cx={18} cy={10} stroke="currentColor" strokeWidth={1.5} rx={4} ry={8} /><path stroke="currentColor" strokeWidth={1.5} d="M18 2C14.897 2 8.465 4.378 4.771 5.854 3.079 6.53 2 8.178 2 10s1.08 3.47 2.771 4.146C8.465 15.622 14.897 18 18 18" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m11 22-1.943-1.07A5.93 5.93 0 0 1 6.045 15" /></svg>;
+export default SvgMarketing;

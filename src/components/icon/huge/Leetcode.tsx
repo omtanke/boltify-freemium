@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLeetcode = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13.851 3 4.63 12a2.06 2.06 0 0 0 0 2.965l5.555 5.421c.84.819 2.2.819 3.038 0L16 17.676" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m6.332 10.338 3.852-3.76a2.186 2.186 0 0 1 3.038 0l2.777 2.711M11 13h9" /></svg>;
+export default SvgLeetcode;

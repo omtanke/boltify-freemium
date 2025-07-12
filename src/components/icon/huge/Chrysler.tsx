@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChrysler = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5 22v-3a7 7 0 1 1 14 0v3" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 22v-2a3 3 0 1 1 6 0v2M8 13v-1a4 4 0 1 1 8 0v1" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 9V7a3 3 0 1 1 6 0v2M12 4V2M12 12v-1M12 8V7M12 17v-2M8 19h1m6 0h1" /></svg>;
+export default SvgChrysler;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowDataTransferVertical = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 19V6.659c0-1.006 0-1.51.309-1.634.308-.125.672.23 1.398.941L19 8.211M9 5v12.341c0 1.006 0 1.51-.309 1.634-.308.125-.672-.23-1.398-.941L5 15.789" /></svg>;
+export default SvgArrowDataTransferVertical;

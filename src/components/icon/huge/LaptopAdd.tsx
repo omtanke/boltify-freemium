@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLaptopAdd = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M14 6h4m0 0h4m-4 0V2m0 4v4" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 15v-2M4 15V7c0-1.886 0-2.828.586-3.414S6.114 3 8 3h3M3.498 16.015 4.02 15h15.932l.55 1.015c1.443 2.662 1.803 3.993 1.254 4.989s-2.002.996-4.91.996H7.154c-2.909 0-4.363 0-4.911-.996-.549-.996-.19-2.327 1.254-4.989" /></svg>;
+export default SvgLaptopAdd;

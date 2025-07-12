@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHyperbole = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M2 12h20M12 22V2M21 8a5 5 0 0 1-5-5M3 16a5 5 0 0 1 5 5" /></svg>;
+export default SvgHyperbole;

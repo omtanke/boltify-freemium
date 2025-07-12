@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMaze = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14 2.5V7c0 1.886 0 2.828.586 3.414S16.114 11 18 11M21.5 15H15m-5 0h5m0 0v6.5M2.5 10H5c1.886 0 2.828 0 3.414-.586S9 7.886 9 6M2.5 15H6" /><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M2.5 12c0-4.478 0-6.718 1.391-8.109S7.521 2.5 12 2.5c4.478 0 6.718 0 8.109 1.391S21.5 7.521 21.5 12c0 4.478 0 6.718-1.391 8.109S16.479 21.5 12 21.5c-4.478 0-6.718 0-8.109-1.391S2.5 16.479 2.5 12Z" /></svg>;
+export default SvgMaze;

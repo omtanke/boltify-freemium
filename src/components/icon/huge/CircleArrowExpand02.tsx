@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCircleArrowExpand02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16.063 16.063c.518-.517.432-2.715.432-2.715m-.432 2.715c-.517.518-2.715.432-2.715.432m2.715-.432L13 13M7.937 7.937c.517-.518 2.715-.432 2.715-.432m-2.715.432c-.518.517-.432 2.715-.432 2.715m.432-2.715L11 11" /></svg>;
+export default SvgCircleArrowExpand02;

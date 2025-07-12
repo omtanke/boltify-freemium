@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgFramer = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="m12 9 6 6H6v-5c0-.827.173-1 1-1zm0 0L6 3h11c.827 0 1 .173 1 1v4c0 .827-.173 1-1 1zM12 21l-6-6h6z" /></svg>;
+export default SvgFramer;

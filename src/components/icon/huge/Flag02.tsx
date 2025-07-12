@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgFlag02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 7v14M11.758 3.909c-3.306-1.684-5.907-.698-7.204.31-.234.182-.35.273-.452.48C4 4.909 4 5.102 4 5.49v9.243c.97-1.098 3.879-2.8 7.758-.823 3.466 1.765 6.416 1.033 7.812.27.193-.105.29-.158.36-.276s.07-.246.07-.502V5.874c0-.829 0-1.243-.197-1.393-.198-.15-.66-.022-1.583.234-1.58.438-3.878.51-6.462-.806" /></svg>;
+export default SvgFlag02;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHierarchyCircle02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M5 22a3 3 0 1 1 0-6 3 3 0 0 1 0 6ZM19 22a3 3 0 1 1 0-6 3 3 0 0 1 0 6Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 16c-.183-2.453-1.203-3-4.653-3H9.653c-3.45 0-4.47.547-4.653 3" /><path stroke="currentColor" strokeWidth={1.5} d="M12 10a4 4 0 1 1 0-8 4 4 0 0 1 0 8Z" /></svg>;
+export default SvgHierarchyCircle02;

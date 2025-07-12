@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArtboardTool = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 7h6c3.3 0 4.95 0 5.975 1.025S22 10.7 22 14v1c0 3.3 0 4.95-1.025 5.975S18.3 22 15 22h-1c-3.3 0-4.95 0-5.975-1.025S7 18.3 7 15V9" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M2 7h3M7 5V2" /></svg>;
+export default SvgArtboardTool;

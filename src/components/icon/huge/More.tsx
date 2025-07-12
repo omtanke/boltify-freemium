@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMore = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M15.5 6.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0ZM22 17.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0ZM9 17.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z" /></svg>;
+export default SvgMore;

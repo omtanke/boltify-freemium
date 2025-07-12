@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCircleUnlock02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M5 15a7 7 0 1 1 14 0 7 7 0 0 1-14 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M7.5 9.5v-3A4.5 4.5 0 0 1 15.742 4" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 16v-2" /></svg>;
+export default SvgCircleUnlock02;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDart = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19.5 4.5 22 2M2.067 19.407c-.07-.42-.105-.63-.004-.794.102-.162.306-.224.714-.346L7 17l-1.267 4.223c-.122.408-.184.612-.346.714-.163.101-.374.066-.794-.004l-1.45-.241c-.345-.058-.518-.087-.633-.202s-.144-.288-.201-.634zM15 6l3 3M8.82 15.93l9.844-6.483a2.968 2.968 0 1 0-4.11-4.111L8.07 15.18c-.28.425.332 1.024.75.75M7 17l1-1" /></svg>;
+export default SvgDart;

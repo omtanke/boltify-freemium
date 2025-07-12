@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMouseScroll02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M12 22c6 0 7.5-4.51 7.5-10S18 2 12 2 4.5 6.51 4.5 12 6 22 12 22Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11.988 6.839v4.92M9.996 7.859c.984-1.02 1.584-1.92 2.04-1.856.384-.003.744.596 1.968 1.856M14.004 11.14c-.984 1.02-1.584 1.92-2.04 1.856-.384.003-.744-.595-1.968-1.855" /></svg>;
+export default SvgMouseScroll02;

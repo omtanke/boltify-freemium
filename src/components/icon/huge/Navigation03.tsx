@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgNavigation03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M11.922 4.79c4.774-1.628 7.161-2.441 8.445-1.157s.47 3.67-1.157 8.445l-1.108 3.251c-1.25 3.667-1.875 5.5-2.906 5.652-.277.04-.563.016-.837-.072-1.02-.327-1.558-2.26-2.636-6.126-.239-.857-.358-1.286-.63-1.614a2 2 0 0 0-.262-.261c-.328-.273-.756-.392-1.614-.631-3.866-1.078-5.799-1.616-6.126-2.636a1.86 1.86 0 0 1-.072-.837c.152-1.03 1.985-1.656 5.652-2.906z" /></svg>;
+export default SvgNavigation03;

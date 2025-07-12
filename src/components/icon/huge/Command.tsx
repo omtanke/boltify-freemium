@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCommand = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M15 9v6H9V9zM15 15h3a3 3 0 1 1-3 3zM9 15.002H6a3 3 0 1 0 3 3zM15 9V6a3 3 0 1 1 3 3zM9 9V6a3 3 0 1 0-3 3z" /></svg>;
+export default SvgCommand;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChef = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15.398 4.41A3.601 3.601 0 0 1 21 7.405 3.6 3.6 0 0 1 17.625 11H17m-1.602-6.59a3.602 3.602 0 0 0-6.796 0m6.796 0a3.6 3.6 0 0 1 .089 2.093m-5.769-.9A3.6 3.6 0 0 0 8.602 4.41m0 0A3.601 3.601 0 0 0 3 7.405 3.6 3.6 0 0 0 6.375 11H7" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M17 14v-4M7 14v-4M18 14.5c-1.599-.622-3.7-1-6-1s-4.4.378-6 1M17 17a5 5 0 0 1-10 0" /></svg>;
+export default SvgChef;

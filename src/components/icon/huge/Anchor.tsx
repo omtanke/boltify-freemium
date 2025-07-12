@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAnchor = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14.5 5.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0M12 8v13M5 13l-2-1a9 9 0 1 0 18 0l-2 1" /></svg>;
+export default SvgAnchor;

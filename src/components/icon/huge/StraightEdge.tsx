@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgStraightEdge = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m6.5 17.5 4.001-4m3-3 4-4" /><path stroke="currentColor" strokeWidth={1.5} d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM21 5a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM7 19a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" /></svg>;
+export default SvgStraightEdge;

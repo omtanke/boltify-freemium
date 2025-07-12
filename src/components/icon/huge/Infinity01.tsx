@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgInfinity01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M12 12s-2.739 5-5.5 5S2 14.761 2 12s1.739-5 4.5-5 5.5 5 5.5 5Zm0 0s2.739 5 5.5 5 4.5-2.239 4.5-5-1.739-5-4.5-5-5.5 5-5.5 5Z" /></svg>;
+export default SvgInfinity01;

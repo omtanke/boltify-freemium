@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSourceCode = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m17 8 1.84 1.85c.773.778 1.16 1.167 1.16 1.65s-.387.872-1.16 1.65L17 15M7 8 5.16 9.85C4.387 10.628 4 11.017 4 11.5s.387.872 1.16 1.65L7 15M14.5 4l-5 16" /></svg>;
+export default SvgSourceCode;

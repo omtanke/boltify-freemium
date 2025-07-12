@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartBreakoutCircle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 3.385V2m3.63 2.364.978-.98M20.618 8H22M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11.853 8.007h3.222c.379 0 .686.315.686.703v3.325m-13 1.923c2.273.266 7.977-.444 12.131-5.068" /></svg>;
+export default SvgChartBreakoutCircle;

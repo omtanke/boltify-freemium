@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTestTube02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M16 2v16a4 4 0 0 1-8 0V2" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M8 8.556c.889-1.153 2.31-.322 4 .762 2.222 1.426 3.556.332 4-.703" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M7 2h10" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="m11 18.002.009-.002M13 14.002l.009-.002" /></svg>;
+export default SvgTestTube02;

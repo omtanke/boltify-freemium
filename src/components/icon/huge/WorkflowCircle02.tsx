@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgWorkflowCircle02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M21 19.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM21 9.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM8 14.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM8 4.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m8 4.5 7.5 5-7 5 7.5 5" /></svg>;
+export default SvgWorkflowCircle02;

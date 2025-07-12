@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDressingTable01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m10 6 1-1m0 3 2-2M6 14V8a6 6 0 1 1 12 0v6M5 14v8m14-8v8M4 14h16M5 19h14M11.5 16.5h1" /></svg>;
+export default SvgDressingTable01;

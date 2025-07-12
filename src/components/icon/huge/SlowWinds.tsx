@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSlowWinds = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 5.632a3.135 3.135 0 0 0-3.727 0 1.93 1.93 0 0 1-2.29-.018c-1.136-.819-2.59-.819-3.71 0-.702.502-1.588.502-2.273 0M3 9.377a3.3 3.3 0 0 0 3.832 0 2 2 0 0 1 2.336 0c1.169.818 2.68.837 3.832.018M21 14.623a3.135 3.135 0 0 0-3.727 0 1.9 1.9 0 0 1-2.273 0c-1.136-.818-2.607-.837-3.727-.018-.702.502-1.588.502-2.273 0M3 18.377a3.3 3.3 0 0 0 3.832 0 2 2 0 0 1 2.336 0c1.169.818 2.68.837 3.832.018" /></svg>;
+export default SvgSlowWinds;

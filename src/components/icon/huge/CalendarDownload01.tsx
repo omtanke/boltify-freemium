@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCalendarDownload01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 19.5c.492.506 1.8 2.5 2.5 2.5m2.5-2.5c-.491.506-1.8 2.5-2.5 2.5m0 0v-8M18 2v2M6 2v2M12.5 22h-1.45c-4.03 0-6.046 0-7.298-1.354C2.5 19.293 2.5 17.114 2.5 12.756v-.513c0-4.357 0-6.536 1.252-7.89C5.004 3 7.02 3 11.05 3h1.9c4.03 0 6.046 0 7.298 1.354 1.179 1.274 1.248 3.28 1.252 7.146M3 8h18" /></svg>;
+export default SvgCalendarDownload01;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgParabola01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 3c0 8.284-4.03 15-9 15S3 11.284 3 3" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 21h1.059m11.647 0h1.059m3.176 0H21M7.235 21h1.06m3.176 0h1.058" /></svg>;
+export default SvgParabola01;

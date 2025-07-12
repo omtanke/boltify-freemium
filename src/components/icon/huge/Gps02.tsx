@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgGps02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M20.514 12a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22.5 12h-2M3.5 12h-2M12 1.5v2M12 20.5v2" /></svg>;
+export default SvgGps02;

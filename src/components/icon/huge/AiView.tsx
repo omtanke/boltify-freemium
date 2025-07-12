@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAiView = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4.75 2.75 7 5v3M4.75 3.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5M19.25 2.75 17 5v3m2.25-4.5a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5M12 2.75V7m0-3.5A.75.75 0 1 0 12 2a.75.75 0 0 0 0 1.5" /><path stroke="currentColor" strokeWidth={1.5} d="M15 16a3 3 0 1 0-6 0 3 3 0 0 0 6 0Z" /><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M12 10c6 0 10 6 10 6s-4 6-10 6-10-6-10-6 4-6 10-6Z" /></svg>;
+export default SvgAiView;

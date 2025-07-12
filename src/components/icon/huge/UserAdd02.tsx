@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgUserAdd02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5.18 15.296c-1.258.738-4.555 2.243-2.547 4.126.982.92 2.074 1.578 3.448 1.578h7.838c1.374 0 2.467-.658 3.447-1.578 2.009-1.883-1.288-3.389-2.546-4.126-2.95-1.728-6.69-1.728-9.64 0" /><path stroke="currentColor" strokeWidth={1.5} d="M14 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19.5 4v5M22 6.5h-5" /></svg>;
+export default SvgUserAdd02;

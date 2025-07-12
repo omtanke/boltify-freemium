@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgWaiter = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20 22.002v-5.974c0-.95 0-1.424-.158-1.798a2 2 0 0 0-1.046-1.055c-.373-.161-.847-.165-1.796-.173 0 5-5 7-5 7s-5-2-5-7c-.932 0-1.398 0-1.765.152a2 2 0 0 0-1.083 1.082C4 14.604 4 15.07 4 16.002v6" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m12 13.5 2-1v2zm0 0-2-1v2zM15.5 6.5v-1a3.5 3.5 0 0 0-7 0v1a3.5 3.5 0 1 0 7 0" /></svg>;
+export default SvgWaiter;

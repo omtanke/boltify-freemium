@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgUpwork = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 4.5v6.25c0 2.043 1.708 3.75 3.75 3.75 2.043 0 3.75-1.707 3.75-3.75V4.5c1.25 3.125 3.597 10 8.125 10 2.383 0 4.375-1.992 4.375-4.375S20.008 5.75 17.625 5.75c-2.534 0-4.034 1.875-4.375 3.75-.303 1.662-1.875 10-1.875 10" /></svg>;
+export default SvgUpwork;

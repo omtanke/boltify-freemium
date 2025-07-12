@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDiagonalScrollPoint02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0M10 4.117s-4.76-.427-5.535.348C3.69 5.241 4.117 10 4.117 10M14 19.883s4.76.427 5.535-.348c.775-.776.348-5.535.348-5.535" /></svg>;
+export default SvgDiagonalScrollPoint02;

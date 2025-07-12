@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgPercentCircle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="m8 16 8-8m-6 1a1 1 0 1 1-2 0 1 1 0 0 1 2 0Zm6 5.828a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z" /><circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} /></svg>;
+export default SvgPercentCircle;

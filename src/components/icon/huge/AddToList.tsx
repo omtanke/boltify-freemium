@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAddToList = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3.5 9v5c0 3.771 0 5.657 1.172 6.828S7.729 22 11.5 22h1c3.771 0 5.657 0 6.828-1.172S20.5 17.771 20.5 14v-4c0-3.771 0-5.657-1.172-6.828S16.271 2 12.5 2H12M13.5 17h4M13.5 7h4M13.5 12h4" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6.5 16.5s.968.267 1.5 1.5c0 0 1-3 3-4M10 5H3.5M10 5c0-.84-2.327-2.41-2.917-3M10 5c0 .84-2.327 2.41-2.917 3" /></svg>;
+export default SvgAddToList;

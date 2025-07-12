@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMapPin = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M7 9.002c-2.175.013-3.353.117-4.121.95C2 10.904 2 12.436 2 15.5s0 4.596.879 5.548C3.757 22 5.172 22 8 22h8c2.828 0 4.243 0 5.121-.952S22 18.564 22 15.5s0-4.596-.879-5.548c-.768-.833-1.946-.937-4.121-.95M6 12l4.5 2.625M18 19l-4.2-2.45m0 0 4.2-2.8m-4.2 2.8-3.3-1.925m0 0L6 17.6" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M12 7a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm0 0v4" /></svg>;
+export default SvgMapPin;

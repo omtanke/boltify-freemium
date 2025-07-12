@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHospitalLocation = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M12.5 2C7.806 2 4 5.618 4 10.08c0 2.553 1.063 4.537 3.188 6.309 1.497 1.25 3.312 3.324 4.401 5.006.523.807 1.262.807 1.822 0 1.144-1.648 2.904-3.757 4.402-5.006C19.938 14.617 21 12.633 21 10.081 21 5.618 17.194 2 12.5 2Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M10.5 7v3m0 3v-3m4-3v3m0 3v-3m0 0h-4" /></svg>;
+export default SvgHospitalLocation;

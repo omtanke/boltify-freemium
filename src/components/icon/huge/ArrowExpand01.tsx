@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowExpand01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16.5 3.266c.844-.012 3.64-.593 4.234 0s.012 3.39 0 4.234m-.228-4.009-7.004 7.005M3.266 16.5c-.012.845-.593 3.641 0 4.234s3.39.012 4.234 0m3.002-7.236-7.004 7.005" /></svg>;
+export default SvgArrowExpand01;

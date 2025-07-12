@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBarCode02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 4v16M5 4v16M15 4v16M8 18V6c0-.943 0-1.414.293-1.707S9.057 4 10 4s1.414 0 1.707.293S12 5.057 12 6v12c0 .943 0 1.414-.293 1.707S10.943 20 10 20s-1.414 0-1.707-.293S8 18.943 8 18M18 18V6c0-.943 0-1.414.293-1.707S19.057 4 20 4s1.414 0 1.707.293S22 5.057 22 6v12c0 .943 0 1.414-.293 1.707S20.943 20 20 20s-1.414 0-1.707-.293S18 18.943 18 18" /></svg>;
+export default SvgBarCode02;

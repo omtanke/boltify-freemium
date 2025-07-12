@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowUpRight02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m13 11-7 7M15.54 6.083l-1.241.113c-2.012.183-3.018.274-3.255.928-.236.654.478 1.368 1.906 2.796l1.13 1.13c1.428 1.428 2.142 2.142 2.796 1.905s.745-1.242.928-3.254l.113-1.242c.11-1.211.165-1.817-.197-2.18-.362-.361-.968-.306-2.18-.196" /></svg>;
+export default SvgArrowUpRight02;

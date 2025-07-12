@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTree05 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 22V9" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M15 17.484c1.676-.715 3-2.28 3-5.465 0-4.418-3-10-6-10s-6 5.582-6 10c0 3.185 1.324 4.75 3 5.465" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m12 15 2.5-2.5M12 13l-2.5-2.5M10 22h4" /></svg>;
+export default SvgTree05;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArtificialIntelligence02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15.5 22v-.5c0-1.105.932-2 1.922-2.489.963-.476 1.772-1.26 1.875-2.18L19.5 15l2-1-2.5-3.75a8.25 8.25 0 1 0-13 6.746m0 0V22m0-5.004c.75.53 1.594.937 2.5 1.194" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11.308 12 9.847 7.479A.72.72 0 0 0 9.154 7a.72.72 0 0 0-.693.479L7 12m7-5v5m-6.462-1.5h3.231" /></svg>;
+export default SvgArtificialIntelligence02;

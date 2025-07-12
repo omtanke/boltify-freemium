@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMoreVerticalSquare01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><rect width={3} height={3} x={10.5} y={3} stroke="currentColor" strokeWidth={1.5} rx={1} /><rect width={3} height={3} x={10.5} y={10.5} stroke="currentColor" strokeWidth={1.5} rx={1} /><rect width={3} height={3} x={10.5} y={18} stroke="currentColor" strokeWidth={1.5} rx={1} /></svg>;
+export default SvgMoreVerticalSquare01;

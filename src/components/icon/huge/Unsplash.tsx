@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgUnsplash = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.5 7.5v-3h5v3zM16 16v-5h3.5v8.5h-15V11H8v5z" /></svg>;
+export default SvgUnsplash;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowTurnForward = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 6H8.5a4.5 4.5 0 0 0 0 9H20" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 12s3 2.21 3 3-3 3-3 3" /></svg>;
+export default SvgArrowTurnForward;

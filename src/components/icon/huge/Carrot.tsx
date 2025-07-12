@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCarrot = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M8.2 9.075C6.1 11.177.635 20.002 2.316 21.684c1.682 1.68 10.507-3.783 12.609-5.884 2.1-2.102 3.362-3.362 0-6.725s-4.623-2.1-6.725 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14.5 15.5 13 14M7 11l1.5 1.5M9 19l-1-1M15 2c.518.519.855 1.633 0 3.111M22 9c-.518-.519-1.633-.856-3.11 0m.388-4.278-1.944 1.944" /></svg>;
+export default SvgCarrot;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowAllDirection = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11.99 8.986v-5.67M11.99 20.67V15M20.67 12 15 11.948M9 12l-5.67-.052M15 6s-2.21-3-3-3-3 3-3 3M6 15s-3-2.21-3-3 3-3 3-3M18 9s3 2.21 3 3-3 3-3 3M9 18s2.21 3 3 3 3-3 3-3" /></svg>;
+export default SvgArrowAllDirection;

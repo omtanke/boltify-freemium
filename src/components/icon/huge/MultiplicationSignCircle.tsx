@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMultiplicationSignCircle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15.5 8.5 12 12m0 0-3.5 3.5M12 12l3.5 3.5M12 12 8.5 8.5" /><circle cx={12} cy={12} r={10} stroke="currentColor" strokeWidth={1.5} /></svg>;
+export default SvgMultiplicationSignCircle;

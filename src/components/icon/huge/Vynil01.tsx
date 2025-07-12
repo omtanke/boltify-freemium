@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgVynil01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M9 6a5.3 5.3 0 0 0-3 3" /><path stroke="currentColor" strokeWidth={1.5} d="M14 12a2 2 0 1 0-4 0 2 2 0 0 0 4 0Z" /></svg>;
+export default SvgVynil01;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartMaximum = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 21H10c-3.3 0-4.95 0-5.975-1.025S3 17.3 3 14V3" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 6h.009m2.99 0h.008m2.99 0h.008m2.99 0h.009m2.989 0h.009m2.989 0H21" /><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M19 21c0-6.627-2.686-12-6-12s-6 5.373-6 12" /></svg>;
+export default SvgChartMaximum;

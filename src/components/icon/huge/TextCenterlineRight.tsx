@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTextCenterlineRight = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 3h18M3 21h18M15 9h6M15 15h6M3.586 15.414C4.172 16 5.114 16 7 16s2.828 0 3.414-.586S11 13.886 11 12s0-2.828-.586-3.414S8.886 8 7 8s-2.828 0-3.414.586S3 10.114 3 12s0 2.828.586 3.414" /></svg>;
+export default SvgTextCenterlineRight;

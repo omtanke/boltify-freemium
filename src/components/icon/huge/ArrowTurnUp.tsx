@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowTurnUp = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 11v4.5a4.5 4.5 0 1 0 9 0V4" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M18 7s-2.21-3-3-3-3 3-3 3" /></svg>;
+export default SvgArrowTurnUp;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMedal06 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M10.5 15.5c0-.828.648-1.5 1.446-1.5h.108c.798 0 1.446.672 1.446 1.5s-.648 1.5-1.446 1.5h-.108c-.798 0-1.446-.672-1.446-1.5Z" /><circle cx={12} cy={15.5} r={6.5} stroke="currentColor" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 9.5 5.5 2M15 9.5 18.5 2M15 2l-1 2.5M12.5 9l-3-7" /></svg>;
+export default SvgMedal06;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMic02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M17 7v4a5 5 0 0 1-10 0V7a5 5 0 0 1 10 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M20 11a8 8 0 0 1-8 8m0 0a8 8 0 0 1-8-8m8 8v3m0 0h3m-3 0H9" /></svg>;
+export default SvgMic02;

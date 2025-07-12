@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBendTool = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><circle cx={19} cy={4} r={2} stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} /><circle cx={5} cy={20} r={2} stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M5 18c0-8 5-14 12-14" /></svg>;
+export default SvgBendTool;

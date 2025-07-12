@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTextAlignRight01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5 4.5h10M10 9.5h5M5 14.5h10M10 19.5h5M19 3v18" /></svg>;
+export default SvgTextAlignRight01;

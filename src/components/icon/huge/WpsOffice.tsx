@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgWpsOffice = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m13.5 14.5 2 4 6.5-13h-7l-3 6-3.5 7L2 5.5h7l1.5 3" /></svg>;
+export default SvgWpsOffice;

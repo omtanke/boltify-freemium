@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDesert = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8 7v14M12 18v3M3 21h12M4 13v.96c0 .845 0 1.268.201 1.616s.567.56 1.3.982L8 18M12 9v2.96c0 .845 0 1.268-.201 1.616s-.567.56-1.3.982L8 16" /><circle cx={18} cy={6} r={3} stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} /></svg>;
+export default SvgDesert;

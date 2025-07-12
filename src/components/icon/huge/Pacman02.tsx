@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgPacman02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M20 10a8 8 0 1 0-16 0v10.4a1.6 1.6 0 1 0 3.2 0v-.8a1.6 1.6 0 1 1 3.2 0v.8a1.6 1.6 0 1 0 3.2 0v-.8a1.6 1.6 0 1 1 3.2 0v.8a1.6 1.6 0 1 0 3.2 0z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.009 10H9m6 0h-.009" /></svg>;
+export default SvgPacman02;

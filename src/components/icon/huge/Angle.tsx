@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAngle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 22V2m0 0 10 15M12 2 2 17M16 8c-1.145 1.263-2.52 2-4 2s-2.855-.737-4-2M12 14c-2.22 0-4.283-.737-6-2" /></svg>;
+export default SvgAngle;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLamp04 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M12 19a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 16v-4M12 22v-3M8 22h8M15.026 12H8.974c-2.212 0-3.318 0-3.787-.685-.469-.686-.015-1.64.893-3.546l1.623-3.41c.546-1.145.818-1.718 1.342-2.038C9.57 2 10.234 2 11.562 2h.876c1.328 0 1.992 0 2.516.32.525.321.797.894 1.343 2.039l1.623 3.41c.908 1.907 1.362 2.86.893 3.546S17.238 12 15.026 12" /></svg>;
+export default SvgLamp04;

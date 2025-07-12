@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAiCloud02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.478 8h.022a4.5 4.5 0 0 1 1.5 8.744M17.478 8q.021-.247.022-.5a5.5 5.5 0 0 0-10.98-.477M17.478 8a5.48 5.48 0 0 1-1.235 3M6.52 7.023A5 5 0 0 0 5 16.584m1.52-9.561Q6.757 7 7 7c1.126 0 2.165.372 3 1M18.25 21.25 16 19v-2m2.25 3.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5M5.75 21.25 8 19v-2m-2.25 3.5a.75.75 0 1 1 0 1.5.75.75 0 0 1 0-1.5M12 21.25V17m0 3.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5" /></svg>;
+export default SvgAiCloud02;

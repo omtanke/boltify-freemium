@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCheckUnread04 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m3.5 5 14 14M2.5 13.5 6 17l.733-.767M16.5 6l-3.907 4.093M7.5 13.5 11 17l2.198-2.302M21.5 6l-6.349 6.651" /></svg>;
+export default SvgCheckUnread04;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowDownLeft01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M7 17 18 6" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6.131 11s-.475 5.634.38 6.488 6.489.38 6.489.38" /></svg>;
+export default SvgArrowDownLeft01;

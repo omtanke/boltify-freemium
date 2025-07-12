@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCylinder03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M22 19c0 1.657-4.477 3-10 3S2 20.657 2 19s4.477-3 10-3 10 1.343 10 3ZM22 5c0 1.657-4.477 3-10 3S2 6.657 2 5s4.477-3 10-3 10 1.343 10 3Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M22 5v14M2 5v14" /></svg>;
+export default SvgCylinder03;

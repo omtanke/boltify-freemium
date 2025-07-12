@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgGibbousMoon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M20.5 14.469A8.107 8.107 0 0 1 9.531 3.5 9.12 9.12 0 1 0 20.5 14.469M21.5 12A9.5 9.5 0 0 0 12 2.5" /></svg>;
+export default SvgGibbousMoon;

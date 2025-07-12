@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgInequality02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 20H3M3 16h14.162c2.38 0 3.571 0 3.803-.627s-.702-1.32-2.57-2.705L6.698 4" /></svg>;
+export default SvgInequality02;

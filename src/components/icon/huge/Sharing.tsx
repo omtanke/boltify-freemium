@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSharing = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M15 16a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.5 5H20c.942 0 1.414 0 1.706.293S22 6.057 22 7v2.5M16 11l5.5-5.5M6.5 5H4c-.943 0-1.414 0-1.707.293S2 6.057 2 7v2.5M8 11 2.5 5.5" /></svg>;
+export default SvgSharing;

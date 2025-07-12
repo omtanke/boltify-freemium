@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDownloadCircle02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 7v5.5M10 11l1.293 1.293c.333.333.5.5.707.5s.374-.167.707-.5L14 11M8.99 16h6" /></svg>;
+export default SvgDownloadCircle02;

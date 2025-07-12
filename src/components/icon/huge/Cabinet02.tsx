@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCabinet02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6.5 16 5 20m12.5-4 1.5 4M21 4H3l.215 5.16c.135 3.238.202 4.857 1.071 5.848.869.992 2.22.992 4.922.992h5.585c2.701 0 4.052 0 4.92-.992.87-.991.937-2.61 1.072-5.848zM12 16V4M22 4H2" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 10h.009M15 10h.009" /></svg>;
+export default SvgCabinet02;

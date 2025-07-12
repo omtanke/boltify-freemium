@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHut = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M6 12h12l2 10H4z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m9 22 .678-3.3c.154-.748.231-1.122.508-1.342.576-.46 3.01-.494 3.628 0 .277.22.354.594.508 1.343L15 22M12 3.2 5.544 8.438c-1.827 1.483-2.74 2.224-2.509 2.893S4.437 12 6.776 12h10.448c2.34 0 3.51 0 3.74-.669.232-.669-.681-1.41-2.508-2.893zm0 0L13.479 2M12 3.2 10.521 2M12 12V9M8 12v-1.5M16 12v-1.5M2 22h20" /></svg>;
+export default SvgHut;

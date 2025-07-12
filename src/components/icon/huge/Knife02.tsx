@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgKnife02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M14.147 17.716c.38-.097.68-.447 1.28-1.149l5.187-6.059c1.91-2.23 2.64-5.348.904-7.969-.575-.869-1.537-.56-2.138.034L3.074 18.692a1.92 1.92 0 0 0 0 2.74 1.975 1.975 0 0 0 3.005-.276c.946-1.368 2.428-4.885 4.08-5.51 1.712-.65 2.309 2.498 3.988 2.07" /></svg>;
+export default SvgKnife02;

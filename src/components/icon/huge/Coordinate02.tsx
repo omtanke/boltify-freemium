@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCoordinate02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M13.5 2 12 3.5m0 0V5m0-1.5L10.5 2" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 14h3l-3 3h3" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="m19 14 3 3m0-3-3 3M12 8v8m0 0-9 6m9-6 9 6" /></svg>;
+export default SvgCoordinate02;

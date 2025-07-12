@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgParagraphBulletsPoint02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 4h6M15 15h6M15 9h6M15 20h6" /><circle cx={6.5} cy={6.5} r={3.5} stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} /><circle cx={6.5} cy={17.5} r={3.5} stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} /></svg>;
+export default SvgParagraphBulletsPoint02;

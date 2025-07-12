@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartBarLine = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 15v4M12 9v10M22 22H2M20 13v6" /><path stroke="currentColor" strokeWidth={1.5} d="M5.6 8.8a2 2 0 1 0-3.2 2.4 2 2 0 0 0 3.2-2.4Zm0 0 4.8-3.6m0 0a2 2 0 0 0 3.39-.305M10.4 5.2a2 2 0 1 1 3.39-.305m0 0 4.42 2.21m0 0a2 2 0 1 0 3.578 1.79 2 2 0 0 0-3.577-1.79Z" /></svg>;
+export default SvgChartBarLine;

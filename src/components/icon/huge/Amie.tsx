@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAmie = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M3 8.5c0 1.33.472 2.55 1.257 3.5A5.5 5.5 0 0 0 12 19.743 5.5 5.5 0 0 0 19.743 12 5.5 5.5 0 0 0 12 4.257 5.5 5.5 0 0 0 3 8.5Z" /><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M10.5 9.5a1.5 1.5 0 0 1 3 0v5a1.5 1.5 0 0 1-3 0z" /></svg>;
+export default SvgAmie;

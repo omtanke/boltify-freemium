@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHeartbreak = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m12 16 1.5-2.5-2-2 3-2.5L12 5s.458-.499 1.034-.932c1.406-1.056 3.747-1.719 6.429-.074 3.519 2.159 4.315 9.28-3.802 15.29C14.114 20.427 13.34 21 12 21s-2.114-.572-3.66-1.717C.222 13.275 1.018 6.153 4.537 3.994 6.431 2.832 8.155 2.822 9.5 3.288" /></svg>;
+export default SvgHeartbreak;

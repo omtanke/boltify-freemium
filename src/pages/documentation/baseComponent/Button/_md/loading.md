@@ -1,0 +1,3 @@
+```tsx
+<Button isLoading>...</Button>
+```

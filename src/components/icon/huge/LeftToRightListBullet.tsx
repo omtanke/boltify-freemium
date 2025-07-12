@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLeftToRightListBullet = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M8 5h12" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 5h.009M4 12h.009M4 19h.009" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M8 12h12M8 19h12" /></svg>;
+export default SvgLeftToRightListBullet;

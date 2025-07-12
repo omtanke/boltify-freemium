@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgPlaylist03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 3h18M2 10h13M2 17h7M18.25 19c0 1.657-1.4 3-3.125 3S12 20.657 12 19s1.4-3 3.125-3 3.125 1.343 3.125 3m0 0v-9c.417.6.75 3.12 3.75 3.6" /></svg>;
+export default SvgPlaylist03;

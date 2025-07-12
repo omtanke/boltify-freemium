@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgMoveLeft = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><circle cx={3} cy={3} r={3} stroke="currentColor" strokeWidth={1.5} transform="matrix(-1 0 0 1 22 9)" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 12h10M2 12c0 .562.438.99 1.314 1.844L4.971 15.5M2 12c0-.562.438-.99 1.314-1.844L4.97 8.5" /></svg>;
+export default SvgMoveLeft;

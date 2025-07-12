@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgRadioactiveAlert = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M9 3a5 5 0 1 0 6 0" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 13a5 5 0 1 0 0 6" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M3 13a5 5 0 1 1 0 6" /></svg>;
+export default SvgRadioactiveAlert;

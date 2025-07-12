@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTextColor = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M3 21h18M19 18l-3.375-8.842C14.057 5.053 13.274 3 12 3S9.943 5.053 8.375 9.158L5 18M8 11h8" /></svg>;
+export default SvgTextColor;

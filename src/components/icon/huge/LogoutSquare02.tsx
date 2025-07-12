@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLogoutSquare02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M2.5 12c0-4.478 0-6.718 1.391-8.109S7.521 2.5 12 2.5c4.478 0 6.718 0 8.109 1.391S21.5 7.521 21.5 12c0 4.478 0 6.718-1.391 8.109S16.479 21.5 12 21.5c-4.478 0-6.718 0-8.109-1.391S2.5 16.479 2.5 12Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M7.037 12.028h6.975m0 0c0 .57-2.155 2.487-2.155 2.487m2.155-2.488c0-.585-2.155-2.464-2.155-2.464m5.18-1.568v8" /></svg>;
+export default SvgLogoutSquare02;

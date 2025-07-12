@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgModernTv4K = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M10.5 7v3m0 0v3m0-3h-2c-.943 0-1.414 0-1.707-.293S6.5 8.943 6.5 8V7m7 6v-3m0 0V7m0 3 4-3m-4 3 4 3" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M2 10c0-3.771 0-5.657 1.172-6.828S6.229 2 10 2h4c3.771 0 5.657 0 6.828 1.172S22 6.229 22 10s0 5.657-1.172 6.828S17.771 18 14 18h-4c-3.771 0-5.657 0-6.828-1.172S2 13.771 2 10ZM16 22a8.4 8.4 0 0 0-4-1 8.4 8.4 0 0 0-4 1" /></svg>;
+export default SvgModernTv4K;

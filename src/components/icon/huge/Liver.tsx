@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLiver = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M18 8.034c-2.88 0-4.873-3.023-8-3.023-4.418 0-8 3.61-8 8.063 0 1.433.171 3.138.868 4.535.546 1.097 1.813 1.555 3.013 1.34C10.43 18.13 14 15.002 15 13.004m0 0c-1.769.106-4-.5-6-1.947m6 1.947c2.83-.17 7-2.796 7-5.978s-5-2.016-8-.56" /></svg>;
+export default SvgLiver;

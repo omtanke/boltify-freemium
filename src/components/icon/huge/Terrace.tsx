@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTerrace = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m3 14 1 5m0 0-1 3m1-3h2.653c.704 0 .87.14.986.836L8 22M21 14l-1 5m0 0 1 3m-1-3h-2.653c-.704 0-.87.14-.986.836L16 22M12 10v12M4.6 7.407C6.67 6.438 8.753 4.9 10.29 3.364 11.199 2.454 11.654 2 12 2s.8.455 1.711 1.364c1.536 1.535 3.619 3.074 5.688 4.043.704.33 1.134.736 1.474 1.528.26.605.143 1.065-.566 1.065H3.693c-.71 0-.826-.46-.566-1.065.34-.792.77-1.198 1.473-1.528M11 22h2M9 15h6" /></svg>;
+export default SvgTerrace;

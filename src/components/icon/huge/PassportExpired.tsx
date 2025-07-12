@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgPassportExpired = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 11v2c0 4.243 0 6.364-1.465 7.682C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.318S2 17.242 2 13s0-6.364 1.464-7.682C4.93 4 7.286 4 12 4h1" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M5 17.5c1.208-2.581 5.712-2.75 7 0m-1.5-7a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM16 2l3 3m0 0 3 3m-3-3-3 3m3-3 3-3" /></svg>;
+export default SvgPassportExpired;

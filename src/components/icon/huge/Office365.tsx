@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgOffice365 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 18V6l10.5-4L20 4v16l-5.5 2zm0 0 10 .5V6L8.5 7.5v8z" /></svg>;
+export default SvgOffice365;

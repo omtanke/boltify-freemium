@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHandPointingRight01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 8.834h.949c.645 0 1.274-.209 1.792-.595L9.643 4.58c.566-.422 1.267-.759 1.915-.48 1.049.451 1.73 1.723.158 3.28l-1.71 1.598H20.43c2.044.056 2.145 3.345 0 3.486h-5.94c.191 1.48-.852 8.454-5.272 7.437l-.634-.143c-.918-.206-2.556-.814-3.513-1.485-.997-.697-1.99-.451-3.07-.451" /></svg>;
+export default SvgHandPointingRight01;

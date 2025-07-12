@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAddInvoice = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12.06 21.512c-.516.325-.773.488-1.06.488s-.545-.163-1.06-.488l-1.91-1.205c-.486-.306-.728-.458-.997-.467-.291-.01-.538.137-1.062.467-.587.37-1.754 1.39-2.51.904-.461-.298-.461-1.053-.461-2.565V8c0-2.828 0-4.243.827-5.121S5.985 2 8.647 2h4.706c2.662 0 3.993 0 4.82.879C19 3.757 19 5.172 19 8v4M11 11H7M17 14v8m4-4h-8M15 7H7" /></svg>;
+export default SvgAddInvoice;

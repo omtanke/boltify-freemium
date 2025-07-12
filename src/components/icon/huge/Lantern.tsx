@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLantern = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6.5 7.5h12v11h-12zM6.5 7.5C7.217 5.41 9.229 4 11.495 4h2.01c2.266 0 4.278 1.41 4.995 3.5zM18.5 18.5c-.717 2.09-2.729 3.5-4.995 3.5h-2.01c-2.266 0-4.278-1.41-4.995-3.5zM6.5 7.5h-1l1 1m12-1h1l-1 1M18.5 18.5h1l-1-1m-12 1h-1l1-1M21.5 11l1-.5m-1 4.5 1 .5M3.5 11l-1-.5m1 4.5-1 .5M12.5 12v2M12.5 2v2" /></svg>;
+export default SvgLantern;

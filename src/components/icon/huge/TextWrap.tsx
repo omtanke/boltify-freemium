@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTextWrap = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 3h18M3 15h6M3 21h6M3 9h13.5a4.5 4.5 0 1 1 0 9H12m0 0c0-.84 2.393-2.41 3-3m-3 3c0 .84 2.393 2.41 3 3" /></svg>;
+export default SvgTextWrap;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBerlinTower = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M16 9a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.5 12.5C9.5 14.5 8 20 7 22M14.5 12.5c0 2 1.5 7.5 2.5 9.5M12 5V2M9 16h6" /></svg>;
+export default SvgBerlinTower;

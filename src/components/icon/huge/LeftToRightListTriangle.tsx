@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLeftToRightListTriangle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M11 5.5h10M5.4 16.893C6.467 17.607 7 17.964 7 18.5s-.533.893-1.6 1.607c-1.067.715-1.6 1.072-2 .804S3 19.93 3 18.5s0-2.143.4-2.411.933.09 2 .804ZM5.4 3.893C6.467 4.607 7 4.964 7 5.5s-.533.893-1.6 1.607c-1.067.715-1.6 1.072-2 .804S3 6.93 3 5.5s0-2.143.4-2.411.933.09 2 .804ZM11 12h10M11 18.5h10" /></svg>;
+export default SvgLeftToRightListTriangle;

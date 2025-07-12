@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLegal02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="m14.001 9.798-9.608.694c-1.289.093-2.392-.826-2.392-1.994 0-1.167 1.103-2.086 2.392-1.993l9.608.694" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21.001 13.998h-8m8-11h-8m7 0h-6s-.5 2.962-.5 5.5c0 2.539.5 5.5.5 5.5h6s.5-2.961.5-5.5c0-2.538-.5-5.5-.5-5.5M12.001 21.002H22m-8.773 0c.551-.988.963-2.877 2.915-2.983.58-.032 1.17-.032 1.75 0 1.952.106 2.365 1.995 2.917 2.983" /></svg>;
+export default SvgLegal02;

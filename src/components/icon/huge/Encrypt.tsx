@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgEncrypt = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m22 16-2-2h-9.468a4.5 4.5 0 1 0 0 4H16.5l1.25-1.293L19 18h1zM6 16h1M3 3.5v5M6 7V5a1.5 1.5 0 1 1 3 0v2a1.5 1.5 0 1 1-3 0M12 3.5v5M15 3.5v5M18 7V5a1.5 1.5 0 0 1 3 0v2a1.5 1.5 0 0 1-3 0" /></svg>;
+export default SvgEncrypt;

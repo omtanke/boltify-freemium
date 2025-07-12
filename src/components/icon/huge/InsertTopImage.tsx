@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgInsertTopImage = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 17h16M3 21h9M3 8c0-2.357 0-3.536.732-4.268S5.643 3 8 3h8c2.357 0 3.535 0 4.268.732S21 5.643 21 8s0 3.536-.732 4.268C19.535 13 18.357 13 16 13H8c-2.357 0-3.536 0-4.268-.732S3 10.357 3 8" /></svg>;
+export default SvgInsertTopImage;

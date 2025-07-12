@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgConstellation = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4M20 18a2 2 0 1 0 0-4 2 2 0 0 0 0 4M11 22a2 2 0 1 0 0-4 2 2 0 0 0 0 4M15 6a2 2 0 1 0 0-4 2 2 0 0 0 0 4M4 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4M14.298 5.873l-1.595 4.254m.418-5.443L5.88 7.316m5.872 6.669-.504 4.03m2.541-5.12 4.422 2.21m-.04 1.707-5.343 2.375" /></svg>;
+export default SvgConstellation;

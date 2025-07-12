@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAlphabetArabic = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M9 4v7M13 14h7.743c.706 0 1.059 0 1.205-.26s-.028-.524-.376-1.053C20.452 10.984 18.784 10 17.117 10M13 4v13.667c0 1.1 0 1.65-.293 1.991S11.943 20 11 20h-1M5 4v13.667c0 1.1 0 1.65-.293 1.991S3.943 20 3 20H2" /></svg>;
+export default SvgAlphabetArabic;

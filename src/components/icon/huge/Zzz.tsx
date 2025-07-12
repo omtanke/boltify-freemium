@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgZzz = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 16h4l-4 4h4M4 4h7l-7 8h7M14 9h6l-6 6h6" /></svg>;
+export default SvgZzz;

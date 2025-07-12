@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDimSum01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13.5 8.5 22 3M8 17l14-8M15.553 12.698a7.7 7.7 0 0 0-1.032-1.795c-1.94-2.328-2.5-4.1-2.504-4.903C11.958 7.607 10 8.477 9.012 7c-.987 1.477-2.946.607-3.005-1-.004.802-.563 2.575-2.504 4.903C2.562 12.13 2 13.598 2 15c0 3.314 3.14 6 7.012 6 3.676 0 6.691-2.42 6.988-5.5M7.5 10.5l-.5 1m3.5-1 .5 1" /></svg>;
+export default SvgDimSum01;

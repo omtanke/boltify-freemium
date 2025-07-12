@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDumbbell03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 6.5h1.528c.31 0 .616-.075.899-.202q3.573-1.596 7.146 0c.284.127.589.202.9.202H18M6 17.5h1.528c.31 0 .616-.076.899-.202q3.573-1.596 7.146 0c.284.127.589.202.9.202H18M6 3v7m12-7v7M6 14v7m12-7v7M3.5 6.5H2m18.5 0H22M3.5 17.5H2m18.5 0H22M3.5 4.5v4m17-4v4M3.5 15.5v4m17-4v4" /></svg>;
+export default SvgDumbbell03;

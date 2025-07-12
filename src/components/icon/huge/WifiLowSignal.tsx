@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgWifiLowSignal = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="m20.513 10.73-5.337 7.279C13.714 20.003 12.983 21 12 21s-1.714-.997-3.176-2.991l-5.337-7.278c-1.079-1.473-1.619-2.209-1.46-3.154.16-.946.79-1.36 2.053-2.19A14.36 14.36 0 0 1 12 3c2.904 0 5.617.873 7.92 2.387 1.262.83 1.893 1.244 2.053 2.19.159.945-.381 1.681-1.46 3.154Z" /><path stroke="currentColor" strokeWidth={1.5} d="M16 17a8.5 8.5 0 0 0-8 0" /></svg>;
+export default SvgWifiLowSignal;

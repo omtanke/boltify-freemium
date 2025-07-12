@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAppointment02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 2v3M7 2v3M13 3.5h-2c-3.771 0-5.657 0-6.828 1.172S3 7.729 3 11.5V14c0 3.771 0 5.657 1.172 6.828S7.229 22 11 22h2c3.771 0 5.657 0 6.828-1.172S21 17.771 21 14v-2.5c0-3.771 0-5.657-1.172-6.828S16.771 3.5 13 3.5M3.5 8.5h17" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 15.5s1.5.5 2 2c0 0 2.177-4 5-5" /></svg>;
+export default SvgAppointment02;

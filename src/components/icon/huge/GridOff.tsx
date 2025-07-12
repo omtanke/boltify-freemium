@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgGridOff = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M7 2v20M17 22v-5M17 2v10.5M22 7H11.5M2 7h5M22 17h-1M2 17h15M2 2l20 20" /></svg>;
+export default SvgGridOff;

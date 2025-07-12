@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChartLineData03 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 8.333C20.075 7.032 18.865 6 16.978 6 8.468 6 12.92 20.5 5 20.5" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 21H10c-3.3 0-4.95 0-5.975-1.025S3 17.3 3 14V3" /></svg>;
+export default SvgChartLineData03;

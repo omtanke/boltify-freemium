@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgKaaba02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21.5 22V5c0-1.414 0-2.121-.44-2.56C20.622 2 19.915 2 18.5 2h-12c-1.414 0-2.121 0-2.56.44C3.5 2.878 3.5 3.585 3.5 5v17" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M7.5 17c0-.943 0-1.414.293-1.707S8.557 15 9.5 15h1c.943 0 1.414 0 1.707.293s.293.764.293 1.707v5h-5zM2.5 22h20M3.5 6h18M3.5 19h4M12.5 19h9M4 9h2m3 0h2m3 0h2m3 0h2" /></svg>;
+export default SvgKaaba02;

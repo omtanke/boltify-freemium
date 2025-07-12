@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDish02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 17a5 5 0 0 1 0-10" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M21 21a9 9 0 1 1 0-18" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 3v5m0 13V11M3.5 8h5M9 3v4.352c0 4.864-6 4.864-6 0V3" /></svg>;
+export default SvgDish02;

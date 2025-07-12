@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgFileShredder = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 12.999H2M20 13.001v-2.343c0-.818 0-1.226-.152-1.594s-.441-.657-1.02-1.235l-4.736-4.736c-.499-.499-.748-.748-1.058-.896a2 2 0 0 0-.197-.082c-.323-.114-.676-.114-1.381-.114-3.245 0-4.868 0-5.967.886a4 4 0 0 0-.603.603C4 4.59 4 6.212 4 9.457V13m9-10.5v.5c0 2.828 0 4.243.879 5.121.878.879 2.293.879 5.121.879h.5M6 15.999v1m4-1v6m4-6v2m4-2v4" /></svg>;
+export default SvgFileShredder;

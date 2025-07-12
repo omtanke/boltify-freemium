@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgAiSearch = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.5 17.5 22 22" /><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M20 11a9 9 0 1 0-18 0 9 9 0 0 0 18 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m6.5 14 1.842-5.526a.694.694 0 0 1 1.316 0L11.5 14m3-6v6m-7-2h3" /></svg>;
+export default SvgAiSearch;

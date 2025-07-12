@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDatabaseExport = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><ellipse cx={11} cy={5} stroke="currentColor" strokeWidth={1.5} rx={8} ry={3} /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M6 10.842c.602.18 1.274.33 2 .44M11 15c-4.418 0-8-1.343-8-3M6 17.842c.602.18 1.274.33 2 .44" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 22c-4.418 0-8-1.343-8-3V5m16 0v7M19 16.674l-1.174-1.487C17.2 14.396 16.888 14 16.5 14s-.7.396-1.326 1.187L14 16.674m2.5-2.587V22" /></svg>;
+export default SvgDatabaseExport;

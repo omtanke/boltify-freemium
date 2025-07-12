@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgBridge = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 7c.5 0 2-.5 3-2 1 1.5 3 4 6 4s5-2.5 6-4c1 1.5 2.5 2 3 2M6 4v16M2 16h20M18 4v16M10 9v7M14 9v7" /></svg>;
+export default SvgBridge;

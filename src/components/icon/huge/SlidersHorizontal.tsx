@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSlidersHorizontal = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M4 5h6M13 5h7M16 9v6M10 2v6M12 16v6M16 12h4M4 12h9M12 19h8M4 19h5" /></svg>;
+export default SvgSlidersHorizontal;

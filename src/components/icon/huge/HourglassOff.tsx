@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHourglassOff = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M5 5.02a6.996 6.996 0 0 0 7 6.992c-3.866 0-7 3.13-7 6.993v2.997m14-2.997v2.997M19 22.001H4" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m2 2.022 20 19.98M6.563 1.998h13.5m-4.022 8.99c.67-.55 2.168-1.664 2.783-4.189.273-1.124.203-3.201.203-4.801" /></svg>;
+export default SvgHourglassOff;

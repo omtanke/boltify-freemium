@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgShutDown = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M7.87 4a9 9 0 1 0 8.262 0M12 3v7" /></svg>;
+export default SvgShutDown;

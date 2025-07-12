@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgSearchList02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 6h4M2 13h4M2 21h19M19.4 13.4 22 16m-1.3-7.15a5.85 5.85 0 1 0-11.7 0 5.85 5.85 0 0 0 11.7 0" /></svg>;
+export default SvgSearchList02;

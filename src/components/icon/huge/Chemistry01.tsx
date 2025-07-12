@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgChemistry01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M3 9h8m9 0h-3M17 4v10.786C17 16.56 15.657 18 14 18s-3-1.44-3-3.214V4" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M5 3v10c0 3.771 0 5.657 1.172 6.828S9.229 21 13 21h8M10 4h8" /></svg>;
+export default SvgChemistry01;

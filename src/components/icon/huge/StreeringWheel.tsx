@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgStreeringWheel = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 14c-2.5.5-4.5 2.5-5 5M5 14c2.5.5 4.5 2.5 5 5M19 11c-2.115-.64-4.49-1-7-1s-4.885.36-7 1" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M12.009 14H12" /></svg>;
+export default SvgStreeringWheel;

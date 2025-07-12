@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgTimeManagementCircle = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M7 19.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM22 19.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19.5 17c-.168-2.453-1.105-3-4.273-3H8.773c-3.168 0-4.105.547-4.273 3" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M12 6.5 13 5m3.5 1.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Z" /></svg>;
+export default SvgTimeManagementCircle;

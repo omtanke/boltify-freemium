@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const Svg1StBracket = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 3c-2.411 1.935-4 5.243-4 9s1.589 7.065 4 9M18 3c2.411 1.935 4 5.243 4 9s-1.589 7.065-4 9" /></svg>;
+export default Svg1StBracket;

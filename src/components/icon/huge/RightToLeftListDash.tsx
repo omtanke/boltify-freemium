@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgRightToLeftListDash = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M3 5h12M19 5h2M3 12h12M19 12h2M3 19h12M19 19h2" /></svg>;
+export default SvgRightToLeftListDash;

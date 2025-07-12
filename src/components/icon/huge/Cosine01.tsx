@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCosine01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M22 20.729c-4 1.936-5.412-7.074-5.669-8.684C15.467 6.638 14.121 3 12 3c-2.12 0-3.467 3.638-4.331 9.045C7.412 13.655 6 22.665 2 20.73" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M2 12h2.5M19.5 12H22M10.5 12h3" /></svg>;
+export default SvgCosine01;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLuggage02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 2h6M10 2v6m4-6v6M8.5 20.5V22H9v-1.5M15.5 20.5V22H15v-1.5" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 20.5h-2c-2.357 0-3.536 0-4.268-.732C6 19.035 6 17.857 6 15.5V13c0-2.357 0-3.536.732-4.268S8.643 8 11 8h2c2.357 0 3.535 0 4.268.732S18 10.643 18 13v2.5c0 2.357 0 3.535-.732 4.268-.733.732-1.911.732-4.268.732M10 11v6.5M14 11v6.5" /></svg>;
+export default SvgLuggage02;

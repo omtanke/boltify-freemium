@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgScrollVertical = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M14 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0ZM11.933 2c1.38-.04 4.628 5.345 3.983 5.852-.73.575-2.902-.8-3.594-1.11-.416-.186-.596-.181-1.012.03-1.881.96-2.818 1.436-3.224 1.14-.646-.471 2.5-5.872 3.847-5.912ZM12.067 22c-1.38.04-4.628-5.32-3.983-5.824.73-.573 2.902.796 3.594 1.104.416.185.596.18 1.012-.03.58-.295 2.51-1.65 3.224-1.134.646.469-2.5 5.844-3.847 5.884Z" /></svg>;
+export default SvgScrollVertical;

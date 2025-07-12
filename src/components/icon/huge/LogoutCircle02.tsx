@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLogoutCircle02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeWidth={1.5} d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M7.034 12.007h5.975m0 0c0 .567-1.875 2.008-1.875 2.008m1.874-2.008c0-.583-1.874-1.986-1.874-1.986m4.9-1.01v6" /></svg>;
+export default SvgLogoutCircle02;

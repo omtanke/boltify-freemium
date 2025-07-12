@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgDashedLine01 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 12h2.5M13.5 12H16M8 12h2.5M2.5 12H5" /></svg>;
+export default SvgDashedLine01;

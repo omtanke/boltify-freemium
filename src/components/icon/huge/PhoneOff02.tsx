@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgPhoneOff02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 19h.009" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 5h2M2 2l20 20M18.995 18.996c-.18 1.92-1.567 3.004-3.5 3.004H8.504a3.5 3.5 0 0 1-3.5-3.5l.1-13.014M7.152 2.27A3.5 3.5 0 0 1 8.504 2h6.991a3.5 3.5 0 0 1 3.5 3.5v9.505" /></svg>;
+export default SvgPhoneOff02;

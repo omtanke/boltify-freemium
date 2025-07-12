@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgGreaterThan = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m7 4 8.33 6.04c2.226 1.615 2.226 2.306 0 3.92L7 20" /></svg>;
+export default SvgGreaterThan;

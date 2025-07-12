@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCongruentTo = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M4 13h16M4 19h16" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 6.927C6.667 3.928 9.333 4.806 12 7s5.333 3.072 8 .073" /></svg>;
+export default SvgCongruentTo;

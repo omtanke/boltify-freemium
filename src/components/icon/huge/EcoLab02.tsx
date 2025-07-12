@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgEcoLab02 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 5v4M8 2h2a2 2 0 0 1 2 2v1h-2a2 2 0 0 1-2-2zM10.5 9h3v3.229a5.002 5.002 0 0 1-1.5 9.77 5 5 0 0 1-1.5-9.77zM9.5 9h5M16 3h-2a2 2 0 0 0-2 2v1h2a2 2 0 0 0 2-2z" /></svg>;
+export default SvgEcoLab02;

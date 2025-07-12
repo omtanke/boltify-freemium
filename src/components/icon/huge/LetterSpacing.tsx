@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgLetterSpacing = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M2 22V2M22 22V2" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="m7 18 3.653-10.514c.292-.673.835-1.49 1.294-1.486.68.005 1.036.708 1.43 1.486C13.772 8.266 17 18 17 18m-7.987-5.009 5.882-.062" /></svg>;
+export default SvgLetterSpacing;

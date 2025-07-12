@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgNoteAdd = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M16 2v2m-5-2v2M6 2v2M19.5 10c0-3.3 0-4.95-1.025-5.975S15.8 3 12.5 3h-3C6.2 3 4.55 3 3.525 4.025S2.5 6.7 2.5 10v5c0 3.3 0 4.95 1.025 5.975S6.2 22 9.5 22h3" /><path stroke="currentColor" strokeLinecap="round" strokeWidth={1.5} d="M17.5 14v8m4-4h-8M7 15h4m-4-5h8" /></svg>;
+export default SvgNoteAdd;

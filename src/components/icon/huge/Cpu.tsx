@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgCpu = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinejoin="round" strokeWidth={1.5} d="M4 12c0-3.771 0-5.657 1.172-6.828S8.229 4 12 4s5.657 0 6.828 1.172S20 8.229 20 12s0 5.657-1.172 6.828S15.771 20 12 20s-5.657 0-6.828-1.172S4 15.771 4 12Z" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.5 2v2M14.5 2v2M9.5 20v2M14.5 20v2M13 9l-4 4M15 13l-2 2M22 14.5h-2M4 9.5H2M4 14.5H2M22 9.5h-2" /></svg>;
+export default SvgCpu;

@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgArrowTurnDown = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 13V8.5a4.5 4.5 0 1 1 9 0V20" /><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 17s2.21 3 3 3 3-3 3-3" /></svg>;
+export default SvgArrowTurnDown;

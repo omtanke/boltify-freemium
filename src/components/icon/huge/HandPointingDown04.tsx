@@ -1,0 +1,3 @@
+import type { SVGProps } from "react";
+const SvgHandPointingDown04 = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" color="currentColor" viewBox="0 0 24 24" className="svg-icon" {...props}><path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M10.755 13.485v6.51c0 .831-.672 1.505-1.501 1.505-.83 0-1.502-.674-1.502-1.505V9.968m3.003 6.521 1.055-.027a2 2 0 0 0 1.949-2.003v-1.004m-.281 2.03 1.335-.055a2 2 0 0 0 1.95-2.003v-1.004m-.286 2.036 1.54-.189c1-.135 1.742-.994 1.733-2.004l-.048-5.2c0-2.184-2.113-4.566-4.38-4.566h-4.88c-1.192 0-2.61.78-3.835 2.848L4.993 7.786c-.58.756-1.407 2.118.165 3.985l2.594 2.76" /></svg>;
+export default SvgHandPointingDown04;
