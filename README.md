@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/baff94a2-4974-402d-bf46-489e601f8c00/deploy-status)](https://app.netlify.com/sites/boltreact/deploys)
 
-# Boltify | React Tailwind Admin & Landing Pages Template
+# Boltify | React Tailwind Admin & Landing Pages Template - FREE
 
 [![Boltify | React Tailwind Admin & Landing Pages Template](./src/assets/cover.png)](https://boltify.omtanke.studio)
 
